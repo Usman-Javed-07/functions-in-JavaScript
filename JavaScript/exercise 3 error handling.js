@@ -1,6 +1,6 @@
 //  error handling 
 try {
-const  number = [1,2,3,4,5,5];
+const  number = [1,2,3,4,5,5,5];
 const count = countOccrrence (null , 5);
 console.log(count);
 }
